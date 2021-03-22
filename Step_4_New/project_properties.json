@@ -1,0 +1,1 @@
+{"project_name":"CodeComplexity","project_gitrepo":"https://github.com/mission-rnd/CodeComplexity.git","project_page":"http://mission-rnd.github.io/C/part-1/CodeComplexity.htm","language":"c","project_validator":"vstest.console.exe","project_steps":["TimeComplexity","PrimeNumber","Search","TwoSum","nPrime"]}

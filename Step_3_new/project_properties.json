@@ -1,0 +1,1 @@
+{"project_name":"C-Strings-Worksheet","project_gitrepo":"https://github.com/mission-rnd/C-Strings.git","project_page":"http://mission-rnd.github.io/C/part-1/C-Strings.htm","language":"c","project_validator":"vstest.console.exe","project_steps":["NumbertoStr","KthIndexFromEnd","StrWordsinRev","removeSpaces","commonWords"]}

@@ -1,0 +1,1 @@
+{"project_name":"C-Strings2-Worksheet","project_gitrepo":"https://github.com/mission-rnd/C-Strings2.git","project_page":"http://mission-rnd.github.io/C/part-2/C-Strings2.htm","language":"c","project_validator":"vstest.console.exe","project_steps":["Consonants_Vowels","getSubstring","getLastWord","getFrequencyofWord","validEmail","strMatch","binaryStrOp","CommonRoute"]}

@@ -1,0 +1,1 @@
+{"project_name":"C-FunctionPointers","project_gitrepo":"https://github.com/mission-rnd/C-FunctionPointers.git","project_page":"http://mission-rnd.github.io/C/part-3/C-FunctionPointers.htm","language":"c","project_validator":"vstest.console.exe","project_steps":["Basics","VoidPointers","MaxEqualSubArray","CombineCommonElements"]}
